@@ -1,6 +1,6 @@
-class Aug0204 {
+public class Aug0204 {
     public static void main(String[] args) {
-        int num = -1;
+        int num = 0;
         if (num > 0) {
             System.out.println("The number is positive");
         } else if (num < 0) {
