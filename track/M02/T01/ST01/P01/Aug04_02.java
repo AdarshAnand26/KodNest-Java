@@ -1,4 +1,4 @@
-public class Aug0204 {
+public class Aug04_02 {
     public static void main(String[] args) {
         int num = 0;
         if (num > 0) {

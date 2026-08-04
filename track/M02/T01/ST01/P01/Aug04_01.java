@@ -1,4 +1,4 @@
-public class Aug0104 {
+public class Aug04_01 {
     public static void main(String[] args) {
         System.out.println("Monday");
         System.out.print("Tuesday");

@@ -1,4 +1,4 @@
-public class Aug0304 {
+public class Aug04_03 {
     public static void main(String[] args) {
          int number = -7;
         int firstScore = 18;
