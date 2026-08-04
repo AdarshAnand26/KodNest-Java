@@ -7,8 +7,5 @@ class Aug0104 {
         System.out.print("friday");
         System.out.println("Saturday");
         System.out.println("sunday");
-
-
-
     }
 }
